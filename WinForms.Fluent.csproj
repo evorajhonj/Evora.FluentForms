@@ -7,18 +7,16 @@
     <RootNamespace>WinForms.Fluent</RootNamespace>
     <AssemblyName>WinForms.Fluent</AssemblyName>
     <Title>WinForms.Fluent</Title>
-    <GeneratePackageOnBuild>False</GeneratePackageOnBuild>
+    <GeneratePackageOnBuild>True</GeneratePackageOnBuild>
     <Version>1.0.0</Version>
-    <PackageLicenseFile>LICENSE</PackageLicenseFile>
-    <PackageRequireLicenseAcceptance>True</PackageRequireLicenseAcceptance>
+    <PackageLicenseExpression>MIT</PackageLicenseExpression>
     <RepositoryType>Git</RepositoryType>
-    <PackageReadmeFile>README.md</PackageReadmeFile>
     <Copyright>MIT License - Copyright (c) 2025</Copyright>
     <Description>Bring Windows 11 Fluent Design System to WinForms applications. Apply Mica, Acrylic, and Tabbed backdrop materials with a clean, intuitive API.</Description>
     <PackageProjectUrl>https://github.com/evorajhonj/WinForms.Fluent</PackageProjectUrl>
     <RepositoryUrl>https://github.com/evorajhonj/WinForms.Fluent.git</RepositoryUrl>
     <PackageTags>WinForms;Mica;Acrylic;Windows11;FluentDesign;Fluent;Extensions;Theme;DarkMode;Backdrop;ModernUI</PackageTags>
-    <PackageReleaseNotes>Initial Release</PackageReleaseNotes>
+    <PackageReleaseNotes>Initial Release - v1.0.0</PackageReleaseNotes>
     <Authors>evorajhonj</Authors>
   </PropertyGroup>
 
