@@ -15,6 +15,10 @@
   <img src="https://img.shields.io/github/license/evorajhonj/WinForms.Fluent?style=flat-square" alt="License">
 </p>
 
+<p align="center">
+  <img src="assets/sample.png" alt="WinForms.Fluent Sample" width="1920" height="1080">
+</p>
+
 ---
 
 ## ✨ Features
